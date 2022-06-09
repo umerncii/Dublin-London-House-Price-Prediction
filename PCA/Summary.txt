@@ -1,0 +1,6 @@
+summary(PCA)
+Importance of components:
+                           PC1  PC2   PC3       PC4
+Standard deviation     2267283 1016 1.329 1.585e-15
+Proportion of Variance       1    0 0.000 0.000e+00
+Cumulative Proportion        1    1 1.000 1.000e+00

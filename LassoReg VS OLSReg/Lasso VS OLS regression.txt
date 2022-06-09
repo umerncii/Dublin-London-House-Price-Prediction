@@ -1,0 +1,20 @@
+Call:
+summary.resamples(object = resamp)
+
+Models: Model1, Model2 
+Number of resamples: 10 
+
+MAE 
+           Min.  1st Qu.   Median     Mean  3rd Qu.     Max. NA's
+Model1 719800.0 748898.1 767157.5 780486.2 788882.3 910359.7    0
+Model2 719589.5 751024.7 771046.2 781451.8 790177.4 908111.1    0
+
+RMSE 
+          Min. 1st Qu.  Median    Mean 3rd Qu.    Max. NA's
+Model1 1314243 1407312 1536172 1608990 1643534 2576031    0
+Model2 1315499 1407592 1542924 1609358 1651255 2563137    0
+
+Rsquared 
+            Min.   1st Qu.    Median      Mean   3rd Qu.      Max. NA's
+Model1 0.3887414 0.4184820 0.4427543 0.4729806 0.4883771 0.6272748    0
+Model2 0.3867087 0.4171727 0.4443582 0.4730667 0.4889165 0.6292982    0

@@ -1,0 +1,18 @@
+Call:
+lm(formula = Price ~ No..of.Bedrooms + Area.in.sq.ft, data = london)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-10393901   -464910   -220633    131860  33079139 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      474524.54   65834.67   7.208 6.94e-13 ***
+No..of.Bedrooms -315070.60   29497.52 -10.681  < 2e-16 ***
+Area.in.sq.ft      1382.13      32.82  42.119  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1661000 on 3477 degrees of freedom
+Multiple R-squared:  0.4634,	Adjusted R-squared:  0.4631 
+F-statistic:  1502 on 2 and 3477 DF,  p-value: < 2.2e-16

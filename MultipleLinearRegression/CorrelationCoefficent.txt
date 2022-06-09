@@ -1,0 +1,5 @@
+Area.in.sq.ft No..of.Bedrooms No..of.Bathrooms No..of.Receptions
+Area.in.sq.ft              1.00            0.78             0.78              0.78
+No..of.Bedrooms            0.78            1.00             1.00              1.00
+No..of.Bathrooms           0.78            1.00             1.00              1.00
+No..of.Receptions          0.78            1.00             1.00              1.00
